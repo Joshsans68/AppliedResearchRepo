@@ -143,3 +143,4 @@ document.addEventListener("DOMContentLoaded", function() {
   teamRoster.addEventListener("dragover", allowDrop);
   teamRoster.addEventListener("drop", drop);
 });
+
